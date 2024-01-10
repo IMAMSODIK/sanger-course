@@ -1,0 +1,14 @@
+// perintah cmd
+// cd => untuk memanggil direktori
+// dir => menampilkan isi direktori
+
+// setelah install mingw, software g++ dipasang ke public variabel
+// steps : 
+// 	- copy path g++ c:/mingw/bin
+// 	- masuk ke variabel environment 
+// 		* klik kanan mycomputer
+// 		* klik properties
+// 		* klik advanced system settings
+// 		* environemnt variabels
+// 		* pada kolom system variabel, klik 2 kali label path
+// 		* paste path dari g++
