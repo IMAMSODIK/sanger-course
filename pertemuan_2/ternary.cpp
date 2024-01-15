@@ -9,5 +9,7 @@ int main()
 	string hasil = (a < b) ? "a lebih kecil dari b" : "a lebih besar dari b";
 	cout<<hasil<<endl;
 
+	string nama = "alex";
+
 	return 0;
 }
